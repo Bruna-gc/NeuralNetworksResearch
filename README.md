@@ -14,4 +14,4 @@ This project investigates the behavior of Hopfield Networks, a class of artifici
 **THE FOLLOWING IS THE RESEARCH POSTER CONTAINING ALL THE RESULTS AND ANALYSIS OF THE EXPERIMENT**
 [CarreiraBruna48x36Draft3_PDF.pdf](https://github.com/user-attachments/files/22977533/CarreiraBruna48x36Draft3_PDF.pdf)  
 
-<img width="528" height="24" alt="Slide1" src="https://github.com/user-attachments/assets/12fa1b7c-58a3-4d04-b1cd-9ff9b53a4f38" />
+<img width="528" height="324" alt="Slide1" src="https://github.com/user-attachments/assets/12fa1b7c-58a3-4d04-b1cd-9ff9b53a4f38" />
