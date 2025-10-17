@@ -6,7 +6,7 @@ This project investigates the behavior of Hopfield Networks, a class of artifici
 
 ***The following are exemples of graphs used in the experiment***  
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<img width="471" height="230" alt="capacityFor_Ns" src="https://github.com/user-attachments/assets/b619b26a-4605-41fd-9aef-16953de582b8" />  <img width="407" height="120" alt="positive_values" src="https://github.com/user-attachments/assets/6463a83d-53a2-474b-a21d-960845ace9e8" />  
+<img width="471" height="230" alt="capacityFor_Ns" src="https://github.com/user-attachments/assets/b619b26a-4605-41fd-9aef-16953de582b8" />  <img width="407" height="220" alt="positive_values" src="https://github.com/user-attachments/assets/6463a83d-53a2-474b-a21d-960845ace9e8" />  
 <img width="588" height="279" alt="all_connections_weight_asymmetry" src="https://github.com/user-attachments/assets/c1793f98-ef5a-49ae-804f-f7280162af50" />  
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
